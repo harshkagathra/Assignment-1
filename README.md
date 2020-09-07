@@ -28,6 +28,7 @@ Mike , Vice President, Marketing
 Ferris, Founder and CEO
 ## Contact Us at:
 **_Vecta Corporation_**
+
 **_555 Technology Place_**
 **_San Diego, CA 92115_**
 **_Tel. (800) 555-5555_**
