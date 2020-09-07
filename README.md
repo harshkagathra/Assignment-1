@@ -1,5 +1,5 @@
 # Welcome to VECTA CORP
-![Logo](logo.jpg)
+![Logo](logo.png)
 ## Our Solutions:
 ### vProspect 2.0
 Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
